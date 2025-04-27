@@ -1,0 +1,6 @@
+TOKEN = "7893229260:AAG34zlGRxu7x9DgSA91zXD7WGL8Y3KdCbo"
+
+CHANNEL_ID = "@testovy_chan"
+CHAT_ID = "@testovy_chat"
+
+ADMIN_ID = "5692260188"
